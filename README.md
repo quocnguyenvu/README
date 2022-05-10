@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nguyen Vu Quoc
-- I'm Front End Developer
+- My skills: ReactJS, Laravel.
 - I studied at Duy Tan university from 2018 to 2022
-- 🌱 You can contact me with :
+- 🌱 You can contact me by:
     [`Facebook`](https://www.facebook.com/ngvuq.11/)
     , [`GitHub`](https://github.com/ngvuq11)
 
